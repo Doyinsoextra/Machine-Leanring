@@ -1,1 +1,1 @@
-# Machine-Leanring
+# Machine-Learning
